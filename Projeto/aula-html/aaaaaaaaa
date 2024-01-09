@@ -1,0 +1,29 @@
+
+<li aria-haspopup="true" class="right no-padding li_login hidden-xs hidden-sm hidden-md" id="li_btn_login" style="margin-right">
+  <a href="#_" class="li_login"><i class="fa fa-sign-in" aria-hidden="true"></i><small>Entrar | Cadastrar</small></a>
+ <div class="grid-container4 div_menu_sup_login" id="div_menu_sup_login">
+ <fieldset>								
+ <section>
+ <label class="input">
+   <i class="fa fa-append fa-user" aria-hidden="true"></i>
+<input type="text" name="login" id="login" placeholder="CPF / CNPJ" width="10" data-content="Preencha este campo com CPF ou CNPJ">
+                    </label>
+                </section>
+                
+                <section>
+                    <label class="input">
+                        <i class="fa fa-append fa-lock" aria-hidden="true"></i>
+                        <input type="password" name="pass" id="pass" placeholder="SENHA">
+                    </label>   
+                    <div class="note"><a href="/redefinir-senha/" id="link_esqueci_senha_senac" class="mega-menu-link-senha">esqueci a senha</a>                                                                                   	</div>
+                </section>                             
+                
+
+                <div id="div_loading_login" style="display:none;text-align:right" class="pull-right"><img src="/images/loading.gif" width="25"></div>       
+                <button type="submit" id="btn_login_senac" class="button btn-block">Entrar</button>
+                <button type="button" id="btn_microsoft" class="button btn-block" style="background: #555;"><i class="fa fa-windows" aria-hidden="true"></i> Entrar com Microsoft</button>
+                <button type="button" id="btn_cadastro_senac" class="button btn-block" style="background: #7f8c8d;">Fazer Cadastro</button>  
+            </fieldset>	
+            
+      
+</li>

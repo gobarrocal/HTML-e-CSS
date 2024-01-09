@@ -1,0 +1,31 @@
+body{
+    background: white;
+}
+h1{
+    background: #E6E6E6; color: #22529a;
+}
+img{
+    float:  center;
+}
+h5{
+  background-color: #22529a;
+}
+h4{
+  background-color: #ef972e;
+}
+i{
+    text-align: right; size: 60px;
+}
+*{padding: 10px ;}
+h3{
+  background: #E6E6E6;
+}
+ h1{
+  font-size: 35px; text-align: center; 
+}
+ h2{
+  font-size: 25px; text-align: center;
+ }
+ p{
+  font-size: 20px; text-align: center; 
+}

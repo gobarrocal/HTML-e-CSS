@@ -1,0 +1,11 @@
+.center{
+    text-align:center ; font-size: 40px;
+}
+#teste{
+background: yellow;
+color: blue;
+}
+*{
+    padding: 20px ;
+
+}
